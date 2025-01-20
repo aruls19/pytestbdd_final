@@ -1,0 +1,12 @@
+username=arulstiger-m1zm@force.com
+password=Python@arul19
+lead_firstname_value=Arnold
+lead_lastname_value=S
+lead_companyname_value=King
+contact_firstname_value=Suriya
+contact_lastname_value=AK
+lead_converttitle=Your lead has been converted
+accountsearch=Racing
+new_accountname=Rolex
+new_opportunityname=Dealer
+closedate_value=30/01/2025
